@@ -15,3 +15,12 @@ Installation:
 Install Python 3.x from Python.org.
 Install the required libraries using pip:
           pip install opencv-python pyzbar
+
+Usage:
+
+Clone or download the repository to your local machine.
+Navigate to the directory containing the script.
+Run the script using Python:
+          python qr_code_scanner.py
+Point your webcam at a QR code.
+The script will decode the QR code and display the extracted information in the terminal.
